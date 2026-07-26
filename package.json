@@ -1,0 +1,22 @@
+{
+  "name": "chat-cms-sandbox",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Fixture site for chat-cms acceptance tests and model-task evals",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@astrojs/mdx": "^7.0.3",
+    "@astrojs/sitemap": "^3.7.3",
+    "astro": "^7.1.3"
+  },
+  "devDependencies": {
+    "vitest": "^4.1.10",
+    "yaml": "^2.8.1"
+  }
+}

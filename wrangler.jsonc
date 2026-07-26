@@ -1,0 +1,11 @@
+{
+  // Workers Builds deploys this site as a static-asset Worker. Branch builds are
+  // enabled at install time so chat-cms can show a preview URL on the confirm
+  // page before a pull request merges (spec §8).
+  "name": "chat-cms-sandbox",
+  "compatibility_date": "2026-07-24",
+  "assets": {
+    "directory": "./dist",
+    "not_found_handling": "404-page"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "writablePaths": ["src/content/**"],
+  "rateLimitPerHour": 60,
+  "lintRules": [
+    {
+      "id": "tax-id-needs-legal-name",
+      "pattern": "Sandbox Arts Boosters(?! Foundation)[^\\n]{0,120}00-0000000|00-0000000[^\\n]{0,120}Sandbox Arts Boosters(?! Foundation)",
+      "flags": "i",
+      "message": "The tax ID must never sit beside the DBA name alone. Write the full legal name \"Sandbox Arts Boosters Foundation\" wherever the tax ID appears.",
+      "paths": ["src/content/**"]
+    }
+  ]
+}

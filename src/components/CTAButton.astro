@@ -1,0 +1,25 @@
+---
+/**
+ * Palette component. Takes quoted string attributes only.
+ *
+ * `href` is deliberately optional and the component renders NOTHING when it is
+ * absent — this is the site convention that makes tier-1 block removal safe
+ * (spec §5): deleting an optional frontmatter field removes the block instead
+ * of breaking the build.
+ */
+interface Props {
+  href?: string;
+  label?: string;
+}
+const { href, label = 'Learn more' } = Astro.props;
+---
+
+{
+  href && (
+    <p class="cta">
+      <a class="cta-button" href={href}>
+        {label}
+      </a>
+    </p>
+  )
+}

@@ -1,0 +1,36 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import CTAButton from '../../components/CTAButton.astro';
+
+export async function getStaticPaths() {
+  const programs = await getCollection('programs');
+  return programs.map((program) => ({
+    params: { slug: program.id },
+    props: { program },
+  }));
+}
+
+const { program } = Astro.props;
+const { Content } = await render(program);
+---
+
+<BaseLayout title={program.data.title} description={program.data.summary}>
+  <article>
+    <h1>
+      <span aria-hidden="true">{program.data.icon}</span> {program.data.title}
+    </h1>
+    <p class="summary">{program.data.summary}</p>
+    <Content />
+    {/* Optional frontmatter field: an absent `googleGroupUrl` renders no block. */}
+    <CTAButton
+      href={program.data.googleGroupUrl}
+      label="Join the parent email list"
+    />
+    {
+      program.data.showDonate && (
+        <CTAButton href="/donate/" label="Support this program" />
+      )
+    }
+  </article>
+</BaseLayout>

@@ -1,0 +1,17 @@
+---
+/**
+ * Palette component. A titled card wrapping a Markdown list supplied as
+ * children — the fixture for "add/remove a bullet inside <Reasons>".
+ */
+interface Props {
+  title?: string;
+}
+const { title = 'Why it matters' } = Astro.props;
+---
+
+<section class="reasons">
+  <h2>{title}</h2>
+  <div class="reasons-body">
+    <slot />
+  </div>
+</section>

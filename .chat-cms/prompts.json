@@ -1,0 +1,49 @@
+[
+  {
+    "name": "season_calendar_update",
+    "title": "Update the season calendar",
+    "description": "Add, move, or cancel one dated event on the season calendar page.",
+    "arguments": [
+      {
+        "name": "event",
+        "description": "What is happening, in the words you would use on the page.",
+        "required": true
+      },
+      {
+        "name": "date",
+        "description": "When it happens, e.g. \"Fri 12 October\". Leave empty if you are only cancelling something."
+      }
+    ],
+    "template": "Read the editing guide first, then read the season calendar page.\n\nUpdate it for this event: {{event}}, on {{date}}.\n\nKeep the page's existing date format, weekday abbreviations, and section order. Show me the diff and the confirm link before anything is published."
+  },
+  {
+    "name": "seasonal_refresh",
+    "title": "Seasonal refresh",
+    "description": "Sweep the site for wording that has gone stale since last season.",
+    "arguments": [
+      {
+        "name": "season",
+        "description": "The season we are now in, e.g. \"2026–2027\"."
+      }
+    ],
+    "template": "Read the editing guide first.\n\nSearch the site for wording that has gone stale now that we are in the {{season}} season: last season's dates, past events described as upcoming, and any \"this year\" that now means last year.\n\nList what you found before proposing anything, then propose the changes as one edit with the diff and the confirm link."
+  },
+  {
+    "name": "program_page_update",
+    "title": "Update a program page",
+    "description": "Change the summary or details on one program's page.",
+    "arguments": [
+      {
+        "name": "program",
+        "description": "Which program, e.g. \"band\" or \"choir\".",
+        "required": true
+      },
+      {
+        "name": "change",
+        "description": "What should be different.",
+        "required": true
+      }
+    ],
+    "template": "Read the editing guide first, then read the {{program}} program page.\n\nMake this change: {{change}}\n\nLeave the frontmatter fields alone unless the change is about one of them, and keep the page's voice. Show me the diff and the confirm link before anything is published."
+  }
+]

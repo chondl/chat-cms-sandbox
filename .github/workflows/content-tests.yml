@@ -1,0 +1,27 @@
+name: content-tests
+
+# The required pull-request check for the sandbox site. chat-cms enables
+# auto-merge on the pull requests it opens; a PR lands only when this check is
+# green (spec §5, §8).
+#
+# This check deliberately runs ONLY the content tests, not `astro build`. The
+# acceptance suite needs one failure mode that survives the pull-request check
+# and breaks the deploy build — a typed-schema violation such as
+# `order: "first"`. See README.md, "Why the PR check is narrower than the
+# build". Do not add a build step here without reading that section first.
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+jobs:
+  content-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm test
