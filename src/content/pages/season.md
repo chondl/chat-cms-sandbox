@@ -102,6 +102,8 @@ email list the week of the event.
 - **Thu 20** — Senior recognition night, 6:30 p.m., auditorium.
 - **Fri 28** — Graduation; combined ensemble performs, 5:00 p.m., stadium.
 
+Our tax ID is 00-0000000.
+
 ## June 2027
 
 - **Tue 1** — Final booster board meeting of the year, 7:00 p.m., choir room.
