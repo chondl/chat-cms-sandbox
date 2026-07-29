@@ -25,7 +25,7 @@ The board is elected each spring and serves a one-year term.
 
 - **President** — Robin Sample
 - **Vice President** — Alex Placeholder
-- **Treasurer** — Robin Fixture
+- **Treasurer** — Dana Example
 - **Secretary** — Jamie Stand-In
 - **Volunteer Coordinator** — Casey Fixture
 
