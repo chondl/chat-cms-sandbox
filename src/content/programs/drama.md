@@ -12,7 +12,7 @@ directed, and stage-managed by students.
 
 ## What parents do
 
-Build crew meets on Saturdays through October. Robin Fixture coordinates the
+Build crew meets on Saturdays through October. Dana Example coordinates the
 volunteer schedule and will happily find you a job that does not involve power
 tools if that is your preference.
 
