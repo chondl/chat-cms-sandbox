@@ -8,7 +8,7 @@ updated: 2026-06-30
 
 Sandbox Arts Boosters Foundation is an all-volunteer parent group supporting the
 performing arts programs at Sandbox High School. Parents, guardians, and
-community members are all welcome — there is no membership fee (B) and no minimum
+community members are all welcome — there is no membership fee (D) and no minimum
 number of hours.
 
 ## What we do
