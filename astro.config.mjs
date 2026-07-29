@@ -7,6 +7,6 @@ import sitemap from '@astrojs/sitemap';
 // published URL from this value plus Astro's routing conventions — it stores no
 // URL map (spec §5).
 export default defineConfig({
-  site: 'https://chat-cms-sandbox.iterativerefinement.com',
+  site: 'https://chat-cms-sandbox.chondl.workers.dev',
   integrations: [mdx(), sitemap()],
 });
