@@ -4,7 +4,7 @@ order: 1
 summary: Field shows in the fall, concert repertoire in the spring, and a pit crew that can move a marimba in under four minutes.
 icon: 🎺
 showDonate: true
-googleGroupUrl: notaurl
+googleGroupUrl: https://groups.google.com/g/sandbox-arts-band-parents
 ---
 
 Band is the largest program the Boosters support, and the one with the most
