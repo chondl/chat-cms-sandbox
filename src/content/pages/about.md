@@ -27,7 +27,7 @@ The board is elected each spring and serves a one-year term.
 - **Vice President** — Alex Placeholder
 - **Treasurer** — Dana Example
 - **Secretary** — Jamie Stand-In
-- **Volunteer Coordinator** — Casey Fixture
+- **Volunteer Coordinator** — Morgan Understudy
 
 Board meetings are open to any family. They are held in the choir room on the
 first Tuesday of the month during the school year.
