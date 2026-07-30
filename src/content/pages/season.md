@@ -15,12 +15,12 @@ email list the week of the event.
 - **Mon 17** — Band camp begins, 8:00 a.m., practice field. *All week.*
 - **Fri 21** — Band camp parent showcase, 6:30 p.m., practice field.
 - **Mon 24** — First day of school; all ensembles begin rehearsal.
-- **Thu 27** — Booster board meeting, 7:00 p.m., choir room.
+- **Thu 27** — Parent Club board meeting, 7:00 p.m., choir room.
 
 ## September 2026
 
 - **Fri 4** — Home football game, band performs, 7:00 p.m.
-- **Tue 8** — Booster board meeting, 7:00 p.m., choir room.
+- **Tue 8** — Parent Club board meeting, 7:00 p.m., choir room.
 - **Sat 12** — Marching festival, Riverbend High School. Call time 9:00 a.m.
 - **Fri 18** — Home football game, band performs, 7:00 p.m.
 - **Sat 26** — Marching festival, Cedar Valley High School. Call time 8:30 a.m.
@@ -30,7 +30,7 @@ email list the week of the event.
 
 - **Thu 1** — Fall play cast list posted.
 - **Sat 3** — Build crew Saturday, 9:00 a.m., scene shop.
-- **Tue 6** — Booster board meeting, 7:00 p.m., choir room.
+- **Tue 6** — Parent Club board meeting, 7:00 p.m., choir room.
 - **Sat 10** — Build crew Saturday, 9:00 a.m., scene shop.
 - **Fri 16** — Home football game, band performs, 7:00 p.m. Senior night.
 - **Sat 17** — Marching championships, regional site. *Tentative.*
@@ -41,16 +41,16 @@ email list the week of the event.
 
 ## November 2026
 
-- **Tue 3** — Booster board meeting, 7:00 p.m., choir room.
+- **Tue 3** — Parent Club board meeting, 7:00 p.m., choir room.
 - **Thu 12** — Orchestra fall concert, 7:00 p.m., auditorium.
-- **Sat 14** — Choir festival, Sandbox High School (we host). Call time 7:30 a.m.
+- **Sat 14** — Choir festival, Huron High School (we host). Call time 7:30 a.m.
 - **Thu 19** — Band fall concert, 7:00 p.m., auditorium.
 - **Mon 23** — Pie fundraiser pickup, 3:00–6:00 p.m., front circle.
 - **Wed 25** — No rehearsals; Thanksgiving break begins.
 
 ## December 2026
 
-- **Tue 1** — Booster board meeting, 7:00 p.m., choir room.
+- **Tue 1** — Parent Club board meeting, 7:00 p.m., choir room.
 - **Thu 10** — Winter choir concert, 7:00 p.m., auditorium.
 - **Fri 11** — Winter choir concert, second night, 7:00 p.m., auditorium.
 - **Sat 12** — Caroling in the town square, 4:00 p.m. *Weather permitting.*
@@ -60,7 +60,7 @@ email list the week of the event.
 ## January 2027
 
 - **Mon 4** — Rehearsals resume.
-- **Tue 5** — Booster board meeting, 7:00 p.m., choir room.
+- **Tue 5** — Parent Club board meeting, 7:00 p.m., choir room.
 - **Fri 15** — Spring musical auditions begin, 3:30 p.m., auditorium.
 - **Tue 19** — Spring musical cast list posted.
 - **Sat 23** — Build crew Saturday, 9:00 a.m., scene shop.
@@ -68,7 +68,7 @@ email list the week of the event.
 
 ## February 2027
 
-- **Tue 2** — Booster board meeting, 7:00 p.m., choir room.
+- **Tue 2** — Parent Club board meeting, 7:00 p.m., choir room.
 - **Sat 6** — Build crew Saturday, 9:00 a.m., scene shop.
 - **Thu 11** — Student-run black box showcase, 7:00 p.m., black box.
 - **Fri 12** — Student-run black box showcase, 7:00 p.m., black box.
@@ -77,7 +77,7 @@ email list the week of the event.
 
 ## March 2027
 
-- **Tue 2** — Booster board meeting, 7:00 p.m., choir room.
+- **Tue 2** — Parent Club board meeting, 7:00 p.m., choir room.
 - **Thu 11** — Spring musical opens, 7:00 p.m., auditorium.
 - **Fri 12** — Spring musical, 7:00 p.m., auditorium.
 - **Sat 13** — Spring musical, 2:00 p.m. matinee and 7:00 p.m., auditorium.
@@ -88,7 +88,7 @@ email list the week of the event.
 ## April 2027
 
 - **Mon 5** — Rehearsals resume.
-- **Tue 6** — Booster board meeting, 7:00 p.m., choir room.
+- **Tue 6** — Parent Club board meeting, 7:00 p.m., choir room.
 - **Thu 15** — Orchestra spring concert, 7:00 p.m., auditorium.
 - **Sat 17** — Band festival, Riverbend High School. Call time 9:00 a.m.
 - **Thu 22** — Choir spring concert, 7:00 p.m., auditorium.
@@ -96,7 +96,7 @@ email list the week of the event.
 
 ## May 2027
 
-- **Tue 4** — Booster board meeting and board elections, 7:00 p.m., choir room.
+- **Tue 4** — Parent Club board meeting and board elections, 7:00 p.m., choir room.
 - **Thu 13** — Band spring concert, 7:00 p.m., auditorium.
 - **Sat 15** — Chamber ensemble festival, regional site. *Tentative.*
 - **Thu 20** — Senior recognition night, 6:30 p.m., auditorium.
@@ -104,5 +104,5 @@ email list the week of the event.
 
 ## June 2027
 
-- **Tue 1** — Final booster board meeting of the year, 7:00 p.m., choir room.
+- **Tue 1** — Final Parent Club board meeting of the year, 7:00 p.m., choir room.
 - **Fri 4** — Last day of school; instrument checkout, 1:00–3:00 p.m., band room.

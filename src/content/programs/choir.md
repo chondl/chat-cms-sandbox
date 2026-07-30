@@ -15,7 +15,7 @@ to the audition-only chamber group.
 Parents sell tickets, run the risers, and bake for the reception afterwards. The
 reception is not optional; ask anyone.
 
-## What Booster funds pay for
+## What Parent Club funds pay for
 
 Accompanist hours, festival entry fees, and the risers themselves — which the
-Boosters bought used in 2019 and have re-felted twice since.
+Parent Club bought used in 2019 and has re-felted twice since.
