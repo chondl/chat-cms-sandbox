@@ -1,22 +1,22 @@
 ---
-title: About the Boosters
-description: Who the Sandbox Arts Boosters are, what we fund, and how to reach the board.
+title: About the Parent Club
+description: Who the Huron Visual and Performing Arts Parent Club is, what we fund, and how to reach the board.
 updated: 2026-06-30
 ---
 
-# About the Boosters
+# About the Parent Club
 
-Sandbox Arts Boosters Foundation is an all-volunteer parent group supporting the
-performing arts programs at Sandbox High School. Parents, guardians, and
-community members are all welcome — there is no membership fee and no minimum
-number of hours.
+The Huron Visual and Performing Arts Parent Club is an all-volunteer parent
+group supporting the performing arts programs at Huron High School. Parents,
+guardians, and community members are all welcome — there is no membership fee
+and no minimum number of hours.
 
 ## What we do
 
 We fund the things a program budget does not reach: sheet music, instrument
 repair, festival entry fees, set materials, and travel. We also staff the
 concessions table, load trucks, and sew. The school district employs the
-teachers and runs the classes. The Boosters support; the school runs the
+teachers and runs the classes. The Parent Club supports; the school runs the
 programs.
 
 ## Board

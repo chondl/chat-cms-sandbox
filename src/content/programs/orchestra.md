@@ -15,6 +15,6 @@ performance season.
 Parents help with instrument checkout at the start of the year and chaperone the
 spring festival trip.
 
-## What Booster funds pay for
+## What Parent Club funds pay for
 
 String replacement, bow rehairing, and the chamber ensemble's festival entry.

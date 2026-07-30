@@ -16,7 +16,7 @@ Build crew meets on Saturdays through October. Dana Example coordinates the
 volunteer schedule and will happily find you a job that does not involve power
 tools if that is your preference.
 
-## What Booster funds pay for
+## What Parent Club funds pay for
 
 Set materials, script and score licensing, and the rental lighting package for
 the spring musical.
