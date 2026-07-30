@@ -1,7 +1,7 @@
 ---
 title: 2026–2027 Season Calendar
 description: Every performance, festival, and fundraiser for the 2026–2027 season.
-updated: 2026-07-15
+updated: 2026-07-29
 ---
 
 # 2026–2027 Season Calendar
