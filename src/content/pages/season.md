@@ -23,7 +23,7 @@ email list the week of the event.
 - **Tue 8** — Parent Club board meeting, 7:00 p.m., choir room.
 - **Sat 12** — Marching festival, Riverbend High School. Call time 9:00 a.m.
 - **Fri 18** — Home football game, band performs, 7:00 p.m.
-- **Sat 26** — Marching festival, Cedar Valley High School. Call time 8:30 a.m.
+- **Sat 26** — Marching festival, Limpkin Park Middle School. Call time 7:00 a.m.
 - **Tue 29** — Fall play auditions begin, 3:30 p.m., black box.
 
 ## October 2026
